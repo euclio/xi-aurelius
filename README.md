@@ -1,4 +1,4 @@
-# xi-aurelius
+# xi-aurelius [![Build Status](https://travis-ci.com/euclio/xi-aurelius.svg?branch=master)](https://travis-ci.com/euclio/xi-aurelius)
 
 A markdown preview server for [xi-editor] using [aurelius].
 
